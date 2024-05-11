@@ -5,5 +5,4 @@ const Heading = ({ className, title }) => {
     </div>
   );
 };
-
 export default Heading;

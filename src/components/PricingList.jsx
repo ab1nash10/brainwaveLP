@@ -24,7 +24,7 @@ const PricingList = () => {
             )}
           </div>
           <Button
-            className={`w-full mb-6`}
+            className={`w-full mb-6 mt-4`}
             href={item.price ? "/pricing" : "mailto:info@brainwave.pro"}
             white={!!item.price}
           >
